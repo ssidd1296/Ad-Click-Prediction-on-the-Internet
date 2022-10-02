@@ -1,8 +1,8 @@
 # Prediction-of-Clicking-on-Advertisement-on-Internet
 
 
--> In this project we are looking that whether a internet user will going to click on Advertisement which is shown on Internet.
--> Main objective of this project is to compare that which Machine Learning Algorithm performs better on this Advertisement dataset.
+-> In this project we will predict that whether a user will click on adverts shown to him/her on the Internet.
+-> The main aim of this project is to compare the performance of various Machine Learning models better on this Advertisement dataset.
 
 The Algorithms which we are using are as follows:-
 1) Logistic Regression
